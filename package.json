@@ -1,0 +1,25 @@
+{
+  "name": "p5_02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sketch.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanahana0201/starter_p5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanahana0201/starter_p5/issues"
+  },
+  "homepage": "https://github.com/hanahana0201/starter_p5#readme",
+  "private": true,
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "svgcanvas": "^2.0.4",
+    "typescript": "^4.3.5"
+  }
+}
